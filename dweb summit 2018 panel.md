@@ -2,9 +2,10 @@ Sustainable Funding for Open Source Communities
 ===============================================
 
 **Time:** Thursday, August 2nd, 14:00 - 15:15 PST
+
 **Location:** Hash Lounge (Live Streamed)
-**Description:**
-This session is a panel discussion on effective ways to fund open source communities and projects of various stages and sizes. Reflecting on Nadia Eghbal's report--_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_, and drawing on experiences from different funding initiatives among our communities, we hope to collaboratively strategize moving forward.
+
+**Description:** This session is a panel discussion on effective ways to fund open source communities and projects of various stages and sizes. Reflecting on Nadia Eghbal's report--_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_, and drawing on experiences from different funding initiatives among our communities, we hope to collaboratively strategize moving forward.
 
 What are the methodologies and tools that will help us support the diversity of contributions to open source ecosystems? What can we learn from previous experiences to ensure the flow of monetary incentives will reinforce social networks that have formed through open source collaborations? We will explore themes around accessiblity, accountability, inclusivity, sustainability, and transparency that have been surfaced as important topics for both contributors and funders.
 
